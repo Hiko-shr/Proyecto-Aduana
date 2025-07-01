@@ -12,7 +12,7 @@
 
 //DAS 2 versiones
 [DAS (Documento Arquitectura Sistema ) 1.0.docx](https://github.com/user-attachments/files/20991047/DAS.Documento.Arquitectura.Sistema.1.0.docx)
-[DAS (Documento Arquitectura Sistema) 1.2.docx](https://github.com/user-attachments/files/20991048/DAS.Documento.Arquitectura.Sistema.1.2.docx)
+[DAS (Documento Arquitectura Sistema) 1.2.docx](https://github.com/user-attachments/files/20991290/DAS.Documento.Arquitectura.Sistema.1.2.docx)
 
 //NILSEN 2 versiones
 [plantilla de calidad de software de Nilsen 1.0.0.xlsx](https://github.com/user-attachments/files/20991008/plantilla.de.calidad.de.software.de.Nilsen.1.0.0.xlsx)
