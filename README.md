@@ -18,6 +18,7 @@ plantilla de requerimiento 1.1.0:
 
 //diagras
 [Diagramas.zip](https://github.com/user-attachments/files/20991072/Diagramas.zip)
+
 (esta todo el diagrama forma completa)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
