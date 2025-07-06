@@ -13,7 +13,8 @@ plantilla de requerimiento 1.0.0:
 
 plantilla de requerimiento 1.1.0:
 
-[plantilla de requerimiento 1.1.0.xlsx](https://github.com/user-attachments/files/21091372/plantilla.de.requerimiento.1.1.0.xlsx)
+[DAS (Documento Arquitectura Sistema) 1.1.0.docx](https://github.com/user-attachments/files/21091736/DAS.Documento.Arquitectura.Sistema.1.1.0.docx)
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
