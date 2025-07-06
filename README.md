@@ -13,7 +13,7 @@ plantilla de requerimiento 1.0.0:
 
 plantilla de requerimiento 1.1.0:
 
-[DAS (Documento Arquitectura Sistema) 1.1.0.docx](https://github.com/user-attachments/files/21091736/DAS.Documento.Arquitectura.Sistema.1.1.0.docx)
+[plantilla de requerimiento 1.1.0.xlsx](https://github.com/user-attachments/files/21091755/plantilla.de.requerimiento.1.1.0.xlsx)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -27,11 +27,13 @@ plantilla de requerimiento 1.1.0:
 //DAS 3 versiones
 DAS DOC Arquitectura Sistema 1.0.0:
 
-[DAS (Documento Arquitectura Sistema ) 1.0.docx](https://github.com/user-attachments/files/20991047/DAS.Documento.Arquitectura.Sistema.1.0.docx)
+[DAS.Documento.Arquitectura.Sistema.1.0.0.docx](https://github.com/user-attachments/files/21091751/DAS.Documento.Arquitectura.Sistema.1.0.0.docx)
+
 
 DAS DOC Arquitectura Sistema 1.1.0:
 
-[DAS.Documento.Arquitectura.Sistema.1.1.0.docx](https://github.com/user-attachments/files/21091472/DAS.Documento.Arquitectura.Sistema.1.1.0.docx)
+[DAS (Documento Arquitectura Sistema) 1.1.0.docx](https://github.com/user-attachments/files/21091753/DAS.Documento.Arquitectura.Sistema.1.1.0.docx)
+
 
 DAS DOC Arquitectura Sistema 1.2.0:
 
