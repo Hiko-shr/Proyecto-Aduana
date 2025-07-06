@@ -1,6 +1,6 @@
 # Proyecto-Aduana
 //carta gant
-[remake gant.xlsx](https://github.com/user-attachments/files/20991061/remake.gant.xlsx)
+[Carta gant 1.0.0.xlsx](https://github.com/user-attachments/files/21091646/Carta.gant.1.0.0.xlsx)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
