@@ -20,6 +20,10 @@ plantilla de requerimiento 1.1.0:
 
 [plantilla de requerimiento 1.1.0.xlsx](https://github.com/user-attachments/files/21091755/plantilla.de.requerimiento.1.1.0.xlsx)
 
+plantilla de requermiento funcionales y no funcionales 1.2.0:
+
+[plantill de requerimiento funcional y no funcionales 1.2.0.xlsx](https://github.com/user-attachments/files/21107803/plantill.de.requerimiento.funcional.y.no.funcionales.1.2.0.xlsx)
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
