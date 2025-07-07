@@ -46,6 +46,9 @@ DAS DOC Arquitectura Sistema 1.1.0:
 
 DAS DOC Arquitectura Sistema 1.2.0:
 
+[DAS (Documento Arquitectura Sistema) 1.2.0.docx](https://github.com/user-attachments/files/21108824/DAS.Documento.Arquitectura.Sistema.1.2.0.docx)
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //NILSEN 3 versiones
