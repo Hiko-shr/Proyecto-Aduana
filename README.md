@@ -45,6 +45,7 @@ DAS DOC Arquitectura Sistema 1.2.0:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //NILSEN 3 versiones
+
 plantilla de calidad de software de Nilsen 1.0.0:
 
 [plantilla de calidad de software de Nilsen 1.0.0.xlsx](https://github.com/user-attachments/files/20991008/plantilla.de.calidad.de.software.de.Nilsen.1.0.0.xlsx)
