@@ -51,7 +51,7 @@ plantilla de calidad de software de Nilsen 1.0.0:
 
 plantilla de calidad de software de Nilsen 1.1.0:
 
-[plantilla de calidad de software de Nilsenn 1.2.xlsx](https://github.com/user-attachments/files/20991068/plantilla.de.calidad.de.software.de.Nilsenn.1.2.xlsx)
+[plantilla de calidad de software de Nilsen 1.1.0.xlsx](https://github.com/user-attachments/files/21094042/plantilla.de.calidad.de.software.de.Nilsen.1.1.0.xlsx)
 
 plantilla de calidad de software de Nilsen 1.2.0:
 
