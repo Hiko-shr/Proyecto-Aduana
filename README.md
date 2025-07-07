@@ -29,7 +29,8 @@ plantilla de requermiento funcionales y no funcionales 1.2.0:
 
 //diagras (esta todo el diagrama forma completa):
 
-[Diagramas.zip](https://github.com/user-attachments/files/20991072/Diagramas.zip)
+[Diagramas.zip](https://github.com/user-attachments/files/21111654/Diagramas.zip)
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
