@@ -60,6 +60,9 @@ plantilla de calidad de software de Nilsen 1.1.0:
 
 plantilla de calidad de software de Nilsen 1.2.0:
 
+[plantilla de calidad de software de Nilsen 1.2.0.xlsx](https://github.com/user-attachments/files/21108588/plantilla.de.calidad.de.software.de.Nilsen.1.2.0.xlsx)
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //figma
