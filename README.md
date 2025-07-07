@@ -1,7 +1,12 @@
 # Proyecto-Aduana
 //carta gant 1.0.0:
 
-[Carta gant 1.0.0.xlsx](https://github.com/user-attachments/files/21091646/Carta.gant.1.0.0.xlsx)
+[Carta gant 1.0.0.xlsx](https://github.com/user-attachments/files/21094020/Carta.gant.1.0.0.xlsx)
+
+Carta gant 1.1.0:
+
+[Carta gant 1.1.0.xlsx](https://github.com/user-attachments/files/21094017/Carta.gant.1.1.0.xlsx)
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
